@@ -12,7 +12,7 @@ Feedback de la comunidad y mejorar como programador.
 
 ## 🟩 Reto para el 28 de mayo 2024
 
-Realiza una función que calcule la entropia (como valor numérico) entre 2 listas, o sea, lo desordenada que esté una lista de números. Su valor debe estar en un rango entre `0` y `1` (con decimales).
+Realiza una función que calcule la entropia (como valor numérico) entre 2 listas, o sea, lo desordenada que esté una lista de números. Su valor debe estar en un rango entre `0.0` y `1.0` (con decimales).
 
 Por ejemplo:
 
